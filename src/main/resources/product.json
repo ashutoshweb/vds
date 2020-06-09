@@ -1,0 +1,142 @@
+[{
+  "product_id" : "1",
+  "product_name" : "Saree 1",
+  "image_name" : "saree-1",
+  "image_url" : "/images/saree-1.jpg",
+  "image_url_detail" : "/images/saree-1-detail.jpg",
+  "image_dimension" : "",
+  "product_type" : "",
+  "product_category" : "saree",
+  "product_price" : "1000",
+  "product_description" : "",
+  "product_created_by" : "",
+  "product_status" : ""
+
+},
+
+  {
+    "product_id" : "2",
+    "product_name" : "Saree 2",
+    "image_name" : "saree-2",
+    "image_url" : "/images/saree-2.jpg",
+    "image_url_detail" : "/images/saree-2-detail.jpg",
+    "image_dimension" : "",
+    "product_type" : "",
+    "product_category" : "",
+    "product_price" : "",
+    "product_description" : "",
+    "product_created_by" : "",
+    "product_status" : ""
+
+  },
+
+  {
+    "product_id" : "3",
+    "product_name" : "Saree 3",
+    "image_name" : "saree-3",
+    "image_url" : "/images/saree-3.jpg",
+    "image_url_detail" : "/images/saree-3-detail.jpg",
+    "image_dimension" : "",
+    "product_type" : "",
+    "product_category" : "",
+    "product_price" : "",
+    "product_description" : "",
+    "product_created_by" : "",
+    "product_status" : ""
+
+  },
+  {
+    "product_id" : "4",
+    "product_name" : "Saree 1",
+    "image_name" : "saree-1",
+    "image_url" : "/images/saree-1.jpg",
+    "image_url_detail" : "/images/saree-1-detail.jpg",
+    "image_dimension" : "",
+    "product_type" : "",
+    "product_category" : "saree",
+    "product_price" : "1000",
+    "product_description" : "",
+    "product_created_by" : "",
+    "product_status" : ""
+
+  },
+
+  {
+    "product_id" : "5",
+    "product_name" : "Saree 2",
+    "image_name" : "saree-2",
+    "image_url" : "/images/saree-2.jpg",
+    "image_url_detail" : "/images/saree-2-detail.jpg",
+    "image_dimension" : "",
+    "product_type" : "",
+    "product_category" : "",
+    "product_price" : "",
+    "product_description" : "",
+    "product_created_by" : "",
+    "product_status" : ""
+
+  },
+
+  {
+    "product_id" : "6",
+    "product_name" : "Saree 3",
+    "image_name" : "saree-3",
+    "image_url" : "/images/saree-3.jpg",
+    "image_url_detail" : "/images/saree-3-detail.jpg",
+    "image_dimension" : "",
+    "product_type" : "",
+    "product_category" : "",
+    "product_price" : "",
+    "product_description" : "",
+    "product_created_by" : "",
+    "product_status" : ""
+
+  },
+
+  {
+  "product_id" : "7",
+  "product_name" : "Saree 1",
+  "image_name" : "saree-1",
+  "image_url" : "/images/saree-1.jpg",
+  "image_url_detail" : "/images/saree-1-detail.jpg",
+  "image_dimension" : "",
+  "product_type" : "",
+  "product_category" : "saree",
+  "product_price" : "1000",
+  "product_description" : "",
+  "product_created_by" : "",
+  "product_status" : ""
+
+},
+
+  {
+    "product_id" : "8",
+    "product_name" : "Saree 2",
+    "image_name" : "saree-2",
+    "image_url" : "/images/saree-2.jpg",
+    "image_url_detail" : "/images/saree-2-detail.jpg",
+    "image_dimension" : "",
+    "product_type" : "",
+    "product_category" : "",
+    "product_price" : "",
+    "product_description" : "",
+    "product_created_by" : "",
+    "product_status" : ""
+
+  },
+
+  {
+    "product_id" : "9",
+    "product_name" : "Saree 3",
+    "image_name" : "saree-3",
+    "image_url" : "/images/saree-3.jpg",
+    "image_url_detail" : "/images/saree-3-detail.jpg",
+    "image_dimension" : "",
+    "product_type" : "",
+    "product_category" : "",
+    "product_price" : "",
+    "product_description" : "",
+    "product_created_by" : "",
+    "product_status" : ""
+
+  }]

@@ -1,0 +1,100 @@
+[{
+  "event_id" : "1",
+  "event_name" : "typical-indian-village",
+  "image_name" : "typical-indian-village",
+  "image_url" : "/images/tsvds/typical-indian-village-1.jpg",
+  "image_url_detail" : "/images/tsvds/typical-indian-village-1.jpg",
+  "image_dimension" : "",
+  "event_type" : "",
+  "event_category" : "generic",
+  "event_place" : "Bihar",
+  "event_description" : "Village life",
+  "event_created_by" : "",
+  "event_date" : "A typical village",
+  "event_status" : "active"
+
+},
+
+  {
+    "event_id" : "2",
+    "event_name" : "Covid-19",
+    "image_name" : "Covid-19",
+    "image_url" : "/images/tsvds/kolkata-corona-20-1.jpg",
+    "image_url_detail" : "/images/tsvds/kolkata-corona-20-1.jpg",
+    "image_dimension" : "",
+    "event_type" : "Corona",
+    "event_category" : "",
+    "event_place" : "Kolkata",
+    "event_description" : "Food distribution during Covid-19",
+    "event_created_by" : "",
+    "event_date" : "March, 2020",
+    "event_status" : ""
+
+  },
+
+  {
+    "event_id" : "3",
+    "event_name" : "Covid-19",
+    "image_name" : "Covid-19",
+    "image_url" : "/images/tsvds/kolkata-corona-20-2.jpg",
+    "image_url_detail" : "/images/tsvds/kolkata-corona-20-2.jpg",
+    "image_dimension" : "",
+    "event_type" : "Corona",
+    "event_category" : "",
+    "event_place" : "Kolkata",
+    "event_description" : "Food distribution during Covid-19",
+    "event_created_by" : "",
+    "event_date" : "March, 2020",
+    "event_status" : ""
+
+  },
+  {
+    "event_id" : "4",
+    "event_name" : "Covid-19",
+    "image_name" : "Covid-19",
+    "image_url" : "/images/tsvds/kolkata-corona-20-3.jpg",
+    "image_url_detail" : "/images/tsvds/kolkata-corona-20-3.jpg",
+    "image_dimension" : "",
+    "event_type" : "Corona",
+    "event_category" : "",
+    "event_place" : "Kolkata",
+    "event_description" : "Food distribution during Covid-19",
+    "event_created_by" : "",
+    "event_date" : "March, 2020",
+    "event_status" : ""
+
+  },
+
+  {
+    "event_id" : "5",
+    "event_name" : "Blanket Distribution",
+    "image_name" : "Blanket Distribution",
+    "image_url" : "/images/tsvds/taralahi-09-1.jpg",
+    "image_url_detail" : "/images/tsvds/taralahi-09-1.jpg",
+    "image_dimension" : "",
+    "event_type" : "Relief",
+    "event_category" : "",
+    "event_place" : "Taralahi",
+    "event_description" : "Blanket distribution before onset of winters, 2009",
+    "event_created_by" : "",
+    "event_date" : "",
+    "event_status" : ""
+
+  },
+
+  {
+    "event_id" : "6",
+    "event_name" : "Blanket Distribution",
+    "image_name" : "Blanket Distribution",
+    "image_url" : "/images/tsvds/taralahi-09-2.jpg",
+    "image_url_detail" : "/images/tsvds/taralahi-09-2.jpg",
+    "image_dimension" : "",
+    "event_type" : "Relief",
+    "event_category" : "",
+    "event_place" : "Taralahi",
+    "event_description" : "Blanket distribution before onset of winters, 2009",
+    "event_created_by" : "",
+    "event_date" : "",
+    "event_status" : ""
+
+  }]

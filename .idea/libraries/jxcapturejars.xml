@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jxcapturejars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/jxcapturejars/jniwrap-3.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/jxcapturejars/slf4j-simple-1.5.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/main/resources/jxcapturejars/slf4j-api-1.5.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
